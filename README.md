@@ -6,6 +6,7 @@
 
 ## About
 
+This is a students project, a random fork without real intentions of being productive
 GitHub Action to use Docker [Buildx Bake](https://docs.docker.com/build/customize/bake/)
 as a high-level build command.
 
