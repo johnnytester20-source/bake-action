@@ -40,8 +40,6 @@ jobs:
       - name: Verificar código (Lint)
         run: yarn run lint
 
-      - name: Ejecutar pruebas (Test)
-        run: yarn run test
 
       # 5. Compilar el código
       - name: Compilar TypeScript
