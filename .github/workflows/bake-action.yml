@@ -34,7 +34,7 @@ jobs:
 
       # 3. Instalar dependencias con Yarn
       - name: Instalar dependencias
-        run: yarn install --immutable
+        run: yarn install 
 
       # 4. Verificar el código (Lint y Pruebas)
       - name: Verificar código (Lint)
