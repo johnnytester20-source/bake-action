@@ -1,5 +1,7 @@
 # syntax=docker/dockerfile:1
 
+# es
+
 ARG NODE_VERSION=24
 
 FROM node:${NODE_VERSION}-alpine AS base
